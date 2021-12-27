@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Zabid Ali
+
+🔭 Full Stack Web Developer at ScienapticAI.
+
+👯 I’m looking to collaborate on Angular and Spring Boot
+
+🤔 I’m looking for help with Spring Boot.
+
+💬 Ask me about: DSA and Development.
+
+⚡ Fun fact: Concepts remains same no matter what tech stack is used.
 
 <!--
 **Zabidali07/Zabidali07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +16,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-                                                          ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -45,12 +55,37 @@ Here are some ideas to get you started:
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.mongodb.org/"><img alt="mongodb" src ="https://img.shields.io/badge/mongodb-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=flat&logo=mongodb&logoColor=white"
+      alt="mongodb"/> 
+  </a>
  </p>
       
 
 ### 👉 Frameworks
+<p align="left">
+    &emsp;
+  <a href="https://angular.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/angular-61DAFB.svg?style=flat&logo=angular&logoColor=red"
+      alt="react"/> 
+  </a>
+    &emsp;
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=flat&logo=react&logoColor=black"
+      alt="react"/> 
+  </a>
+  &emsp;
+    <a href="https://spring.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white" alt="spring Boot" /> 
+  </a>  
+  &emsp;
+    <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white"
+      alt="nodejs"/> 
+  </a>
+ </p>
 
+<br />
 
 ## 📊 Github Stats 
   <br/>
@@ -62,7 +97,6 @@ Here are some ideas to get you started:
    <img align="left" alt="ZabidAli07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZabidAli07&show_icons=true&count_private=true&theme=algolia" height="192px"/>
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZabidAli07&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ZabidAli07" height="192px"/> 
 </p>
- <br />
  <br />
       
       
